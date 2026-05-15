@@ -109,4 +109,3 @@ qr-generator/
 - The QR code uses high error correction to support placing a logo in the center.
 - Make sure the uploaded logo is clear and not too large.
 - If the QR code is hard to scan, reduce the logo size from the advanced settings.
-# QR-Code-Generator
